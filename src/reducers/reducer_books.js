@@ -3,9 +3,9 @@
  */
 export default ()=>{
     return [
-        {title:'Javascript Book'},
-        {title:'Python Book'},
-        {title:'Ruby Book'},
-        {title:'Node Book'},
+        {title:'Javascript Book',pages:100},
+        {title:'Python Book',pages:200},
+        {title:'Ruby Book',pages:300},
+        {title:'Node Book', pages:400},
     ]
 }
